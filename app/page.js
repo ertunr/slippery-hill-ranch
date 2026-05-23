@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div style={{ padding: 20, maxWidth: 800, margin: "auto", fontFamily: "Arial" }}>
       <h1>Slippery Hill Ranch</h1>
-      <p>Off-Grid Escape • Adventure Stays • Nature Living</p>
+      <p>Off-Grid Escape • Adventure Stays • Nature Living</p> 
 
       <h2>About</h2>
       <p>
